@@ -11,7 +11,7 @@ body{
 }
 
 .wrapper{
-    transform:scale(1);
+    transform: scale(1);
     width:44rem;
     background-color: white;
     border-radius: 15px;
